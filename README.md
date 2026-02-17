@@ -31,11 +31,6 @@ Backend & DevOps. Деплою, настраиваю сервера, пишу б
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
-## Статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=V1nSky&show_icons=true&theme=dark)
-
-
 ## Контакты
 
 [![Telegram](https://img.shields.io/badge/-@Youoyouu-26A5E4?logo=telegram&logoColor=white)](https://t.me/Youoyouu)
