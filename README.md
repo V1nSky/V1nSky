@@ -34,3 +34,6 @@ Backend & DevOps. Деплою, настраиваю сервера, пишу б
 ## Контакты
 
 [![Telegram](https://img.shields.io/badge/-@Youoyouu-26A5E4?logo=telegram&logoColor=white)](https://t.me/Youoyouu)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=V1nSky&show_icons=true&theme=dark)
+
