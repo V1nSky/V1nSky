@@ -14,6 +14,15 @@
 | **[LeadHunter](https://github.com/V1nSky/leadhunter)** | Python · FastAPI · Telethon · aiogram 3 | SaaS/pet-проект для поиска и обработки лидов из Telegram: multi-account, антибан-логика, фильтрация, хранение лидов, экспорт в CSV/XLSX и Mini App-интерфейс |
 | **[Kwork Notifier](https://github.com/V1nSky/kwork-notifier)** | Python · Playwright · httpx · aiogram 3 | Сервис мониторинга сообщений Kwork с уведомлениями в Telegram. Использует Headless Chromium для работы со SPA-авторизацией |
 
+
+---
+## QA & Product Thinking
+
+- Пишу баг-репорты и задачи в Jira в формате: steps, actual result, expected result, severity, priority, environment.
+- Проверяю бизнес-логику, статусы, очереди публикации, формы и пользовательские сценарии.
+- Тестирую собственные проекты как продукт: от UI/UX до backend API и edge cases.
+- Использую QA-подход в разработке: чек-листы, регрессия, негативные сценарии, проверка фиксов.
+
 ---
 
 ## Landing Pages
