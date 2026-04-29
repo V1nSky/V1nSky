@@ -20,7 +20,7 @@
 
 | Project | Demo | Description |
 |:--------|:-----|:------------|
-| **[Resume](https://v1nsky.github.io/resume/)** | [Demo](https://v1nsky.github.io/resume/) | Интерактивное резюме с bento-grid дизайном |
+| **[Resume](https://v1nsky.github.io/resume-dev/)** | [Demo](https://v1nsky.github.io/resume/) | Интерактивное резюме с bento-grid дизайном |
 | **[LeadHunter](https://v1nsky.github.io/leadhunter-landing/)** | [Demo](https://v1nsky.github.io/leadhunter-landing/) | Лендинг SaaS-парсера Telegram-каналов |
 | **[Beauty Bot](https://v1nsky.github.io/beauty-bot-landing/)** | [Demo](https://v1nsky.github.io/beauty-bot-landing/) | Лендинг бота для записи клиентов (beauty-индустрия) |
 
