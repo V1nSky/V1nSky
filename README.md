@@ -1,6 +1,6 @@
 # V1nSky
 
-> Full-stack / Backend developer. Telegram automation, web services, AI-assisted products — from idea to production.
+> Full-stack / Backend developer with QA mindset. Telegram automation, web services, AI-assisted products — from idea to production.
 
 ---
 
