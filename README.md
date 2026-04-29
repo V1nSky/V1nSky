@@ -86,7 +86,7 @@
 ## Contact
 
 Telegram: **[@vqns7](https://t.me/vqns7)**  
-Dev log: **[@v1nskdev](https://t.me/v1nskdev)**  
+Dev log: **[@vqnsdev](https://t.me/vйnskdev)**  
 Resume: **[v1nsky.github.io/resume](https://v1nsky.github.io/resume/)**
 
 ---
